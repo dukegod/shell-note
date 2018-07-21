@@ -28,3 +28,7 @@ control + D 结束输入，快速创建文件
 + dd
 + banner 创建命令行图案
 
+### 权限操作
+
++ chmod
++ chown
