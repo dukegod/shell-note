@@ -7,6 +7,7 @@
 ```sh
 cat > test
 ```
+
 control + D 结束输入，快速创建文件
 
 ### 文件操作
@@ -27,8 +28,8 @@ control + D 结束输入，快速创建文件
 + cut
 + dd
 + banner 创建命令行图案
++ tr : 命令用于转换或删除文件中的字符
 
 ### 权限操作
-
 + chmod
 + chown
