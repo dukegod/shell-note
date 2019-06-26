@@ -6,7 +6,6 @@ shell 教程
 
 [curl](https://ec.haxx.se/)
 
-
 配置本地shell环境，通过`which sh`查找路径，配置到文件的顶部。
 
 ```sh
