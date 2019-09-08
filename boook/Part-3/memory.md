@@ -1,3 +1,6 @@
+# memory
+
+```sh
 #! /bin/sh
 ps xmo rss=,pmem=,comm= | while read rss pmem comm; ((n++<5)); 
 do
@@ -17,3 +20,5 @@ else color=$'\e[32m ';
 fi;
 echo "$color$pmem% $size $(basename "$comm")"$'\e[0m'"";
 done
+
+```
