@@ -57,7 +57,7 @@ mkdir test
 
 ### search
 
-查找的命令： `which`, `grep`
+查找的命令： `which`, `grep`, `find`
 
 ### 端口号查询与进程查询
 
