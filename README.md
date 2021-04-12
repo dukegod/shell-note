@@ -11,3 +11,4 @@ set -euo pipefail
 
 revert
 
+revert 1
